@@ -1,0 +1,7 @@
+datastructures/__init__.py
+datastructures/stack.py
+datastructures.egg-info/PKG-INFO
+datastructures.egg-info/SOURCES.txt
+datastructures.egg-info/dependency_links.txt
+datastructures.egg-info/not-zip-safe
+datastructures.egg-info/top_level.txt
